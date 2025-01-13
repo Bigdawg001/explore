@@ -24,6 +24,11 @@ items:
  - withastro/astro
  - tlienart/Franklin.jl
  - getzola/zola
+ - lumeland/lume
+ - docsifyjs/docsify
+ - shuding/nextra
+ - twostraws/Ignite
+ - JohnSundell/Publish
 display_name: Static Site Generators
 created_by: jakejarvis
 ---
